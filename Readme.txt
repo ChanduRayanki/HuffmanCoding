@@ -49,6 +49,6 @@ for decompression, if output file name is not given the output file will be stor
 by :
 
   Chandrashekar Rayanki @ChanduRayanki
-  Kavya Kutumbaka @Kavya7698
+  Kavya Kutumbaka @Kavya7628
 
 
